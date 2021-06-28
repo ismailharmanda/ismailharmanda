@@ -40,3 +40,4 @@
 <a href="https://github.com/ismailharmanda">
   <img src="https://github-readme-stats.vercel.app/api?username=ismailharmanda&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ismailharmanda"/>
 </a>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailharmanda&theme=blue-green)
