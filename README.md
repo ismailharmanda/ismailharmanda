@@ -37,10 +37,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-blueviolet?style=flat&logo=adobe-xd&logoColor=white)
 
-## GitHub Stats 📊
+## Stats 📊
 
-<a href="https://github.com/ismailharmanda">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailharmanda&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ismailharmanda"/>
-</a> 
+|Github Statistics|Streaks|Languages|
+|-|-|-|
+|[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=ismailharmanda&show_icons=true&theme=dark&hide_title=true)](https://github.com/ismailharmanda)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=ismailharmanda&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailharmanda&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ismailharmanda)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailharmanda&theme=blue-green)
+![Profile Views](https://komarev.com/ghpvc/?username=ismailharmanda&style=plastic&color=yellow)
