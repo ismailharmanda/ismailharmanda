@@ -21,4 +21,10 @@
 
 ## Stats 📊
 
+
+|Github Statistics|Streaks|Languages|
+|-|-|-|
+|[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=ismailharmanda&show_icons=true&theme=dark&hide_title=true)](https://github.com/ismailharmanda)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=ismailharmanda&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailharmanda&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ismailharmanda)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ismailharmanda&style=plastic&color=yellow)
