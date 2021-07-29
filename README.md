@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap)
 
 
-## Stats 📊 (Only valid for public repositories)
+## Stats 📊 (Valid for only public repositories)
 
 
 |Github Statistics|Streaks|Languages|
