@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working as Frontend Developer
-- 💬 Ask me about Javascript, React,
+- 💬 Ask me about Javascript, React, Redux, Typescript
 
 <div style="margin-bottom: 40px"></div>
 
