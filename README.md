@@ -4,8 +4,8 @@
 <div style="margin-bottom: 40px"></div>
 
 
-- 🔭 I’m currently working as Frontend Developer
-- 💬 Ask me about Javascript, React, Redux, Typescript
+- 🔭 I’m currently working as Mobile Developer
+- 💬 Ask me about Javascript, React, React Native, Typescript, iOS Development
 
 <div style="margin-bottom: 40px"></div>
 
